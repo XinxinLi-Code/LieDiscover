@@ -1,0 +1,502 @@
+[
+  {
+    "iteration": 1.0,
+    "max_total_return": 0.5472744051888909,
+    "mean_total_return": 0.31070347211736915,
+    "mean_elite_score": 0.4962594212446604,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 2.0,
+    "max_total_return": 0.5822590344029326,
+    "mean_total_return": 0.3132345363987361,
+    "mean_elite_score": 0.4815777857112685,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 3.0,
+    "max_total_return": 0.6021555687982936,
+    "mean_total_return": 0.3278795275661154,
+    "mean_elite_score": 0.5005723793955222,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 4.0,
+    "max_total_return": 0.6109020262254989,
+    "mean_total_return": 0.3109712545188721,
+    "mean_elite_score": 0.47980891300989265,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 5.0,
+    "max_total_return": 0.5653676246811494,
+    "mean_total_return": 0.31530490565894786,
+    "mean_elite_score": 0.5065014138247927,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 6.0,
+    "max_total_return": 0.5070820775047907,
+    "mean_total_return": 0.31636456216318853,
+    "mean_elite_score": 0.48316697033032446,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 7.0,
+    "max_total_return": 0.533320249291627,
+    "mean_total_return": 0.3073305231995852,
+    "mean_elite_score": 0.47715103035923095,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 8.0,
+    "max_total_return": 0.488387352879905,
+    "mean_total_return": 0.3098936251752372,
+    "mean_elite_score": 0.46612158083775707,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 9.0,
+    "max_total_return": 0.5840623493060352,
+    "mean_total_return": 0.3009243186718293,
+    "mean_elite_score": 0.48681210257909485,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 10.0,
+    "max_total_return": 0.5311176754951463,
+    "mean_total_return": 0.30430007543179277,
+    "mean_elite_score": 0.47305182576266736,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 11.0,
+    "max_total_return": 0.5210362334020546,
+    "mean_total_return": 0.3177952229978091,
+    "mean_elite_score": 0.4746209058072761,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 12.0,
+    "max_total_return": 0.5210362334020546,
+    "mean_total_return": 0.3091285537793881,
+    "mean_elite_score": 0.47339250421831897,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 13.0,
+    "max_total_return": 0.5560208626160963,
+    "mean_total_return": 0.3342188831632691,
+    "mean_elite_score": 0.51956737638881,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 14.0,
+    "max_total_return": 0.5269786119001517,
+    "mean_total_return": 0.3146519023804776,
+    "mean_elite_score": 0.4939760424226723,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 15.0,
+    "max_total_return": 0.5309845005997351,
+    "mean_total_return": 0.3211409128483635,
+    "mean_elite_score": 0.4706084601237719,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 16.0,
+    "max_total_return": 0.521371654536715,
+    "mean_total_return": 0.299155723312939,
+    "mean_elite_score": 0.4666689590845595,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 17.0,
+    "max_total_return": 0.519232918498952,
+    "mean_total_return": 0.30120885846698614,
+    "mean_elite_score": 0.471376242378986,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 18.0,
+    "max_total_return": 0.6009537590278184,
+    "mean_total_return": 0.3204678916314447,
+    "mean_elite_score": 0.4940229020256794,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 19.0,
+    "max_total_return": 0.5373261379912104,
+    "mean_total_return": 0.3108196305213957,
+    "mean_elite_score": 0.4894360398072564,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 20.0,
+    "max_total_return": 0.4967345514137321,
+    "mean_total_return": 0.3108369462891642,
+    "mean_elite_score": 0.4718570863366541,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 21.0,
+    "max_total_return": 0.5472744051888909,
+    "mean_total_return": 0.31316582667081766,
+    "mean_elite_score": 0.4925140925438113,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 22.0,
+    "max_total_return": 0.5369268790978322,
+    "mean_total_return": 0.3160634186656685,
+    "mean_elite_score": 0.4866386782231683,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 23.0,
+    "max_total_return": 0.5023415087771688,
+    "mean_total_return": 0.3254031984515,
+    "mean_elite_score": 0.4735125651458884,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 24.0,
+    "max_total_return": 0.5170303447024713,
+    "mean_total_return": 0.3024859775134403,
+    "mean_elite_score": 0.47871360657849005,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 25.0,
+    "max_total_return": 0.5269786119001517,
+    "mean_total_return": 0.30244997455637995,
+    "mean_elite_score": 0.4842085100243361,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 26.0,
+    "max_total_return": 0.5928088067332405,
+    "mean_total_return": 0.30069802726191863,
+    "mean_elite_score": 0.4717299716459372,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 27.0,
+    "max_total_return": 0.5450718313924101,
+    "mean_total_return": 0.33033843258353424,
+    "mean_elite_score": 0.5018210056084044,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 28.0,
+    "max_total_return": 0.5538182888196155,
+    "mean_total_return": 0.30424727574997257,
+    "mean_elite_score": 0.484742717410361,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 29.0,
+    "max_total_return": 0.5866003442371763,
+    "mean_total_return": 0.31022276281549055,
+    "mean_elite_score": 0.5135921523438078,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 30.0,
+    "max_total_return": 0.553216783686988,
+    "mean_total_return": 0.31757159408600943,
+    "mean_elite_score": 0.5076696649004873,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 31.0,
+    "max_total_return": 0.5357250693273571,
+    "mean_total_return": 0.3106194647680146,
+    "mean_elite_score": 0.4628104765905247,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 32.0,
+    "max_total_return": 0.5450718313924102,
+    "mean_total_return": 0.3132706173596745,
+    "mean_elite_score": 0.4702211887433547,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 33.0,
+    "max_total_return": 0.5251752969970491,
+    "mean_total_return": 0.3017028239489719,
+    "mean_elite_score": 0.4663354278622477,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 34.0,
+    "max_total_return": 0.5335224955308764,
+    "mean_total_return": 0.3099484273407164,
+    "mean_elite_score": 0.47118247334965674,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 35.0,
+    "max_total_return": 0.6271919308146547,
+    "mean_total_return": 0.30654866371109607,
+    "mean_elite_score": 0.4733658958185222,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 36.0,
+    "max_total_return": 0.5741140821083548,
+    "mean_total_return": 0.2962200199209717,
+    "mean_elite_score": 0.4950911701689658,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 37.0,
+    "max_total_return": 0.552014973916513,
+    "mean_total_return": 0.29782768470238,
+    "mean_elite_score": 0.49248067047982336,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 38.0,
+    "max_total_return": 0.539129452894313,
+    "mean_total_return": 0.2994615558021249,
+    "mean_elite_score": 0.4781261558135861,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 39.0,
+    "max_total_return": 0.5659691298137768,
+    "mean_total_return": 0.30694133174398597,
+    "mean_elite_score": 0.4896568205454165,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 40.0,
+    "max_total_return": 0.5257768021296767,
+    "mean_total_return": 0.2903808381644249,
+    "mean_elite_score": 0.4664291470682621,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 41.0,
+    "max_total_return": 0.5088853924078933,
+    "mean_total_return": 0.3123545259872243,
+    "mean_elite_score": 0.47769895854383104,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 42.0,
+    "max_total_return": 0.547274405188891,
+    "mean_total_return": 0.3230316439896317,
+    "mean_elite_score": 0.49993809560689684,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 43.0,
+    "max_total_return": 0.5438700216219351,
+    "mean_total_return": 0.3033693171266059,
+    "mean_elite_score": 0.4660747212347499,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 44.0,
+    "max_total_return": 0.5005381938740662,
+    "mean_total_return": 0.283972673856944,
+    "mean_elite_score": 0.47193015103042396,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 45.0,
+    "max_total_return": 0.5824612806421818,
+    "mean_total_return": 0.3215836527243662,
+    "mean_elite_score": 0.521831053945385,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 46.0,
+    "max_total_return": 0.5269786119001517,
+    "mean_total_return": 0.3031442811199025,
+    "mean_elite_score": 0.49285465094998493,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 47.0,
+    "max_total_return": 0.5846638544386626,
+    "mean_total_return": 0.3195592930616777,
+    "mean_elite_score": 0.4826130616788865,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 48.0,
+    "max_total_return": 0.5110879662043741,
+    "mean_total_return": 0.30939224223651773,
+    "mean_elite_score": 0.47426064613568963,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 49.0,
+    "max_total_return": 0.5170303447024712,
+    "mean_total_return": 0.29776969999598407,
+    "mean_elite_score": 0.474146848934514,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  },
+  {
+    "iteration": 50.0,
+    "max_total_return": 0.5858656642091378,
+    "mean_total_return": 0.3211655874213601,
+    "mean_elite_score": 0.49045097110147146,
+    "success_episodes": 0.0,
+    "valid_episodes": 100.0,
+    "actor_terms": 0.0,
+    "critic_terms": 150.0
+  }
+]

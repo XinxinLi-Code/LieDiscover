@@ -1,0 +1,1 @@
+1,t,x,u,sin(x)**2,sin(t-x)**4,-x*sin(t-x),sin(t-x)**2,cos(x),-sin(t-x),sin(x),cos(t-x)

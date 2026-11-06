@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/hulx2002/LieNLSD",
+  "commit": "7d85a987ac3c04ba9d202ffd0a7c5304f10a8ef9",
+  "source_sha256": {
+    "weno.py": "4d35895f96c998f74db9621c413607429be8029997f1815c3e9fe91d8688d913",
+    "fno_train_helper.py": "49a3ea5cf3655e72518db7691d9989777b2ebb9801492989cd0083b72b46f35c",
+    "ode_transform.py": "e0e9f2ac51ddf87002ceb02c6783b120b4629c077380320881db377a23fe71f3",
+    "train_fno.py": "177266f736d7ca27163ccbe413e79bc798bdf69d3ed5800d5be92f20f0064a8b",
+    "utils.py": "f32ed107d1936d68926fcdd15e48c1560f6cee59b9e0b222889ad2854811a82e",
+    "deltamodel.py": "98c13cd884043ae3a1903df93e460db3c851c2d93ea926cf0265f85e88937968",
+    "train_pde_symmetry.py": "30b9c346a5be9761b56d55402f439edf1184d1ceb11dadeafbee9bad6b0d88b7",
+    "fno.py": "7f74bfb6ae86b195051533949c9fe085c4d9d08ea1e86a55c8216bc31d97765b"
+  }
+}
